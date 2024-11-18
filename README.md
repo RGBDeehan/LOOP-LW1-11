@@ -38,3 +38,11 @@ Sample Input
 32 29 34 21 27
 Sample Output
 Teenage: 33.00
+
+8. Write a C program that can input two teams points and net run rate in a competition. Display which team's rank is higher.
+
+9. Write a C program to check the sign of a given number
+
+10. Write a program to print a number of days in a month
+
+11. Write a C program to check whether the triangle is valid or not if angles are given (You cannot use more than one Logical And in if condition)
