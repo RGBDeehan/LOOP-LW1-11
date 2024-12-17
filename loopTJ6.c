@@ -1,3 +1,5 @@
+/* Write a C program which can input some 2D points and display in which quadrant the most points fall. */
+
 #include <stdio.h>
 int main (){
 float x , y , c ;
