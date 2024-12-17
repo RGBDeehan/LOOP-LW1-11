@@ -1,4 +1,4 @@
-
+/* Write a C program which can input some country’s population and area. After that display number of countries which's population density is more than 500. */
 
 #include <stdio.h>
 int main(){
