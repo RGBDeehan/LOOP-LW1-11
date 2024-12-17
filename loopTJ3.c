@@ -1,3 +1,5 @@
+/* Write a C program which can input some persons’ ages and display the number of people in each category. There are three categories – Child (Up to 12 years), Teenager (13-19 Years) and senior citizen (65 and 65+) Sample Input 7 12 19 24 11 17 13 65 Sample Output Child:2 Teenager: 3 Senior Citizen: 1 */
+
 #include <stdio.h>
 int main(){
 int x , y , c, d , e ;
