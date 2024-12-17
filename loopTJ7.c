@@ -1,4 +1,4 @@
-
+/* Write a C program which can input some day’s temperature and display the average temperature of those days when temperatures cross 30 0 . Sample Input 5 32 29 34 21 27 Sample Output Teenage: 33.00 */
 
 #include <stdio.h>
 int main(){
