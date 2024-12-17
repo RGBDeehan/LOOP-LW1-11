@@ -1,4 +1,4 @@
-
+/* Write a C program which can input some students’ CGPA and display how many of them secured at least 3.5 CGPA */
 #include <stdio.h>
 int main(){
 float x , y , c;
